@@ -39,7 +39,7 @@
     "webhook": "./packages/cli/bin/n8n webhook",
     "worker": "./packages/cli/bin/n8n worker"
   },
-  "devDependencies": {
+  "Dependencies": {
     "@biomejs/biome": "^1.9.0",
     "@n8n_io/eslint-config": "workspace:*",
     "@types/jest": "^29.5.3",
